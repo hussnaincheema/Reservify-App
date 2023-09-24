@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Reservify",
+    "slug": "Reservify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logos/Reservify-Logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logos/Reservify-Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logos/Reservify-Logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logos/Reservify-Logo.png"
+    }
+  }
+}
